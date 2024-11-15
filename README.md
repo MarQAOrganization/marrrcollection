@@ -25,7 +25,7 @@ Author
 Marbelis Hugo
 
 Contact: marrrcollection@gmail.com  
-Social Media: @marrrcollection Tiktiok @marrrcollection 
+Social Media: @marrrcollection Tiktok @marrrcollection 
 
 License
 This project is licensed under the MIT License. 
