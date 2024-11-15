@@ -11,6 +11,16 @@ Project Features
 - Responsive design: Fully optimized for mobile devices, tablets, and desktops.
 - Secure payments: Integration with trusted payment methods like PayPal, Stripe, or bank transfers.
 
+ Technologies Used
+Frontend: HTML5, CSS3, JavaScript.
+Backend: Node.js, Express.
+Database: MongoDB/MySQL.
+
+Additional Tools:
+SASS.
+Bootstrap.
+Cypress.
+
 Author
 Marbelis Hugo
 
