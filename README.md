@@ -12,14 +12,14 @@ Project Features
 - Secure payments: Integration with trusted payment methods like PayPal, Stripe, or bank transfers.
 
  Technologies Used
-Frontend: HTML5, CSS3, JavaScript.
-Backend: Node.js, Express.
-Database: MongoDB/MySQL.
+ -Frontend: HTML5, CSS3, JavaScript.
+- Backend: Node.js, Express
+- Database: MongoDB/MySQL.
 
 Additional Tools:
-SASS.
-Bootstrap.
-Cypress.
+- SASS.
+- Bootstrap.
+- Cypress.
 
 Author
 Marbelis Hugo
