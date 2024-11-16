@@ -35,7 +35,6 @@ a:hover {
 }
 
 
-
 main {
   margin: auto 5%;
   text-align: left;
@@ -56,6 +55,13 @@ h2 {
 /* Estilos del formulario */
 form {
   width: 100%; 
+}
+h3{
+  background: rgba(243, 48, 139, 0.3) /* Lila background with 10% opacity */  font-size: 1rem; 
+  color:#2c3e50;
+  background-color:#f4f4f4;
+  padding: 2rem 1rem; 
+  text-align: center;
 }
 
 input, textarea {
