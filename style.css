@@ -45,10 +45,13 @@ section {
   margin-bottom: 2.5rem; 
 }
 
+
 h2 {
-  font-size: 1.6rem;
-  margin-bottom: 1rem;
-  color: #34495e; 
+  background: rgba(243, 48, 139, 0.3) /* Lila background with 10% opacity */  font-size: 1rem; 
+  color:#2c3e50;
+  background-color:#f4f4f4;
+  padding: 2rem 1rem; 
+  text-align: center; 
 }
 /* Estilos del formulario */
 form {
