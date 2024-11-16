@@ -1,0 +1,80 @@
+
+body {
+  background: rgba(239, 183, 238, 0.3) /* Lila background with 10% opacity */  font-size: 1rem; 
+  color:#2c3e50;
+  background-color:#f4f4f4;
+  padding: 2rem 1rem; 
+  text-align: center;
+
+}
+
+header {
+  background-image: linear-gradient(to right, rgba(239, 139, 243, 0), rgb(239, 172, 172));
+  color: rgb(38, 2, 33);
+  padding: 3rem 2rem;
+  margin-bottom: 2rem;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.1rem; 
+  margin-bottom: 1.5rem;
+}
+
+a {
+  color: #3c0f37;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2980b9;
+}
+
+
+
+main {
+  margin: auto 5%;
+  text-align: left;
+}
+
+section {
+  margin-bottom: 2.5rem; 
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: #34495e; 
+}
+/* Estilos del formulario */
+form {
+  width: 100%; 
+}
+
+input, textarea {
+  width: 100%;
+  padding: 0.8rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  background-color: #f9f9f9;
+}
+
+button {
+  width: 100%; 
+  padding: 1rem;
+  background-color: #400344;
+  color: white;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #400344;
+}
