@@ -8,6 +8,14 @@ body {
 
 }
 
+Body {
+  Background-color: rgb(245, 229, 239)
+  }
+  
+  Section {
+  Background-color: rgb(246, 212, 236) 
+  }
+
 header {
   background-image: linear-gradient(to right, rgba(239, 139, 243, 0), rgb(239, 172, 172));
   color: rgb(248, 55, 129);
