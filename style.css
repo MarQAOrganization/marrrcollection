@@ -1,7 +1,7 @@
 
 
 body {
-  background: rgba(239, 183, 238, 0.3) /* Lila background with 10% opacity */  font-size: 1rem; 
+  background: rgba(190, 45, 185, 0.3) /* Lila background with 10% opacity */  font-size: 1rem; 
   color: #2c3e50;
   background-color: #f4f4f4;
   padding: 2rem 1rem; 
@@ -50,6 +50,18 @@ h2 {
   margin-bottom: 1rem;
   color: #34495e; 
 }
+h3 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: #34495e
+}
+
+h4 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: #34495e
+}
+
 /* Estilos del formulario */
 form {
   width: 100%; 
