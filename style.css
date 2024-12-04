@@ -1,19 +1,16 @@
 
+
 body {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
-  font-size: 1rem; 
-  color: #130c10;
-  background-color: #f1d6e4;
+  background: rgba(239, 183, 238, 0.3) /* Lila background with 10% opacity */  font-size: 1rem; 
+  color: #2c3e50;
+  background-color: #f4f4f4;
   padding: 2rem 1rem; 
   text-align: center;
-  #grad {
-    background-image: linear-gradient(rgb(109, 47, 83), rgb(240, 16, 117));
-  }
 }
 
 header {
-  background-color: #f9abca; 
-  color: rgb(10, 0, 0);
+  background-image: linear-gradient(to right, rgba(239, 139, 243, 0), rgb(239, 172, 172));
+  color: rgb(38, 2, 33);
   padding: 3rem 2rem;
   margin-bottom: 2rem;
 }
@@ -29,12 +26,12 @@ p {
 }
 
 a {
-  color: #01090f;
+  color: #3c0f37;
   text-decoration: none;
 }
 
 a:hover {
-  color: #010a10;
+  color: #2980b9;
 }
 
 
@@ -51,11 +48,7 @@ section {
 h2 {
   font-size: 1.6rem;
   margin-bottom: 1rem;
-  color: #01070e;
-  p {
-    border: 2px solid rgb(14, 13, 13);
-    border-radius: 5px;
-  }
+  color: #34495e; 
 }
 /* Estilos del formulario */
 form {
@@ -75,7 +68,7 @@ input, textarea {
 button {
   width: 100%; 
   padding: 1rem;
-  background-color: #3498db;
+  background-color: #400344;
   color: white;
   border: none;
   border-radius: 0.5rem;
@@ -83,7 +76,7 @@ button {
 }
 
 button:hover {
-  background-color: #2980b9;
+  background-color: #400344;
 }
 
 
