@@ -39,6 +39,7 @@ a:hover {
 main {
   margin: auto 5%;
   text-align: left;
+  border-radius: 15px; 
 }
 
 section {
