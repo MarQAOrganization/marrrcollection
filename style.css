@@ -1,7 +1,6 @@
-
-
 body {
-  background: rgba(190, 45, 185, 0.3) /* Lila background with 10% opacity */  font-size: 1rem; 
+  background: rgba(239, 183, 238, 0.3) /* Lila background with 10% opacity */  
+  font-size: 1rem; 
   color: #2c3e50;
   background-color: #f4f4f4;
   padding: 2rem 1rem; 
@@ -13,6 +12,7 @@ header {
   color: rgb(38, 2, 33);
   padding: 3rem 2rem;
   margin-bottom: 2rem;
+  border-radius: 30px;
 }
 
 h1 {
@@ -34,12 +34,9 @@ a:hover {
   color: #2980b9;
 }
 
-
-
 main {
   margin: auto 5%;
   text-align: left;
-  border-radius: 15px; 
 }
 
 section {
@@ -51,30 +48,41 @@ h2 {
   margin-bottom: 1rem;
   color: #34495e; 
 }
-h3 {
-  font-size: 1.6rem;
-  margin-bottom: 1rem;
-  color: #34495e
-}
-
-h4 {
-  font-size: 1.6rem;
-  margin-bottom: 1rem;
-  color: #34495e
-}
-
-h5 {
-  font-size: 1.6rem;
-  margin-bottom: 1rem;
-  color: #34495e
-}
-
 /* Estilos del formulario */
 form {
   width: 100%; 
 }
 
-input, textarea {
+h4{
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: #34495e; 
+}
+
+h5{
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  color: #34495e; 
+}
+
+img{
+    width: 200px; /* Ajusta el ancho de las imágenes */
+    height: auto; /* Mantiene las proporciones de las imágenes */
+    margin: 10px; /* Agrega espacio entre las imágenes */
+    border-radius: 5px; /* Redondea las esquinas de las imágenes */
+  }
+
+  video{
+      flex: 1;
+      display: grid; /* Utiliza flexbox para controlar el posicionamiento */
+      justify-content: center; /* Centra los elementos horizontalmente*/
+      max-width: 40%; /* Ajusta el ancho máximo del video */
+      height: auto; /* Mantiene las proporciones del video */
+   }
+
+
+
+ input, textarea {
   width: 100%;
   padding: 0.8rem;
   margin-bottom: 1rem;
@@ -104,5 +112,3 @@ footer {
   font-size: 0.9rem;
   color: #777;
 }
-
-
